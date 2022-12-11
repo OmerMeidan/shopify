@@ -583,8 +583,40 @@ body{
        
     }
 
+    .imgRow img{
 
+        height: 20vh;
+    }
 
+    .imgSecond{
+
+        height: 25vh;
+    }
+
+    .imgFirst{
+
+        height: 25vh;
+    }
+
+    .imgRow2 img{
+
+        height: 20vh;
+
+    }
+
+    .imgThird{
+        height: 25vh;
+    }
+
+    .imgForth{
+        height: 25vh;
+
+    }
+
+    #h1{
+
+        font-size: 15vw;
+    }
 
 
 
@@ -603,7 +635,15 @@ body{
         height: 20vh;
     }
 
+    #p1{
+        font-size: 5vw;
 
+    }
+
+    .login-home{
+
+        font-size: 4vw;
+    }
 
 }
 
