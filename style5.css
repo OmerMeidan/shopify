@@ -583,12 +583,30 @@ body{
        
     }
 
-    
 
 
-    
-    
+
+
+
 }
+@media screen and (max-width: 700px) {
+
+    .contact2 {
+       
+        justify-content: space-between;
+        width: 90vw;
+        gap: 15vw;
+        margin-left: 1vw;
+
+    }
+    .container img{
+        height: 20vh;
+    }
+
+
+
+}
+
 
 @keyframes color-change{
 
