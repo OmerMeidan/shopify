@@ -369,9 +369,10 @@ body{
 
 .container img{
 
-    /* display: flex; */
+    
     height: 30vh;
     width: 25vw;
+    border-radius: 20px;
     border: 3px black double;
 
 }
@@ -622,6 +623,15 @@ body{
 
 }
 @media screen and (max-width: 700px) {
+
+    #button1{
+
+        color: black;
+        -webkit-text-stroke: 0.3px white;
+        border-radius: 5px;
+        border: 7px double black;
+        font-size: 8vw;
+    }
 
     .contact2 {
        
